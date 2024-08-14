@@ -1,5 +1,5 @@
 fun main() {
-    val salarioMinimo = 1420.20
+    val salarioMinimo = 1293.20
     
     print("Digite o valor do seu salário: ")
     val salario = readLine()!!.toDouble()
